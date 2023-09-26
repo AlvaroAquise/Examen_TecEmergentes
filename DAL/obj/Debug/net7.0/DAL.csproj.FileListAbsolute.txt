@@ -1,0 +1,53 @@
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/DAL.deps.json
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/DAL.runtimeconfig.json
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/DAL.dll
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/DAL.pdb
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/Entities.pdb
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.csproj.CopyComplete
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.dll
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/refint/DAL.dll
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.pdb
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/DAL.genruntimeconfig.cache
+/home/vitanova/CURSOS/C#/API REST/DAL/obj/Debug/net7.0/ref/DAL.dll
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/Tools.dll
+/home/vitanova/CURSOS/C#/API REST/DAL/bin/Debug/net7.0/Tools.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\bin\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\bin\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\LSM\Downloads\ExamenTecg\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\LSM\Downloads\ExamenTecg\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\LSM\Downloads\ExamenTecg\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\LSM\Downloads\ExamenTecg\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\LSM\Downloads\ExamenTecg\DAL\bin\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\ExamenTecg\DAL\bin\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\LSM\Downloads\ExamenTecg\DAL\obj\Debug\net7.0\ref\DAL.dll

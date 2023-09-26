@@ -1,0 +1,53 @@
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/LN.deps.json
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/LN.dll
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/LN.pdb
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/DAL.dll
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/Entities.pdb
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/DAL.pdb
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.csproj.AssemblyReference.cache
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.AssemblyInfoInputs.cache
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.AssemblyInfo.cs
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.csproj.CoreCompileInputs.cache
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.csproj.CopyComplete
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.dll
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/refint/LN.dll
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/LN.pdb
+/home/vitanova/CURSOS/C#/API REST/LN/obj/Debug/net7.0/ref/LN.dll
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/Tools.dll
+/home/vitanova/CURSOS/C#/API REST/LN/bin/Debug/net7.0/Tools.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\bin\Debug\net7.0\LN.deps.json
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\bin\Debug\net7.0\LN.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\bin\Debug\net7.0\LN.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\bin\Debug\net7.0\DAL.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\bin\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\bin\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\bin\Debug\net7.0\DAL.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.csproj.AssemblyReference.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.AssemblyInfoInputs.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.AssemblyInfo.cs
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.csproj.CoreCompileInputs.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.csproj.CopyComplete
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\refint\LN.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\LN.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\LN\obj\Debug\net7.0\ref\LN.dll
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.csproj.AssemblyReference.cache
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.dll
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\refint\LN.dll
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.pdb
+C:\Users\LSM\Downloads\ExamenTecg\LN\bin\Debug\net7.0\LN.deps.json
+C:\Users\LSM\Downloads\ExamenTecg\LN\bin\Debug\net7.0\LN.dll
+C:\Users\LSM\Downloads\ExamenTecg\LN\bin\Debug\net7.0\LN.pdb
+C:\Users\LSM\Downloads\ExamenTecg\LN\bin\Debug\net7.0\DAL.dll
+C:\Users\LSM\Downloads\ExamenTecg\LN\bin\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\ExamenTecg\LN\bin\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\ExamenTecg\LN\bin\Debug\net7.0\DAL.pdb
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.AssemblyInfoInputs.cache
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.AssemblyInfo.cs
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.csproj.CoreCompileInputs.cache
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\LN.csproj.CopyComplete
+C:\Users\LSM\Downloads\ExamenTecg\LN\obj\Debug\net7.0\ref\LN.dll
