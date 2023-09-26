@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj": {}
+    "E:\\Descargas\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj": {
+    "E:\\Descargas\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj",
+        "projectUniqueName": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\LSM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\DAL\\obj\\",
+        "projectPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj"
+              "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj"
               }
             }
           }
@@ -79,26 +81,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj": {
+    "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\LSM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\obj\\",
+        "projectPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -138,26 +142,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj": {
+    "E:\\Descargas\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj",
+        "projectUniqueName": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj",
         "projectName": "LN",
-        "projectPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj",
-        "packagesPath": "C:\\Users\\LSM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\LN\\obj\\",
+        "projectPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\LN\\LN.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\LN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -170,11 +176,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj"
+              "E:\\Descargas\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj": {
+                "projectPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\LSM\\Desktop\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj"
+              "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Descargas\\ExamenTecg\\ExamenTecg\\Entities\\Entities.csproj"
               }
             }
           }
@@ -204,7 +210,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
