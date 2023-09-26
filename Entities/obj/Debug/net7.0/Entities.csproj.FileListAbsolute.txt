@@ -1,0 +1,34 @@
+/home/vitanova/CURSOS/C#/API REST/Entities/bin/Debug/net7.0/Entities.deps.json
+/home/vitanova/CURSOS/C#/API REST/Entities/bin/Debug/net7.0/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/Entities/bin/Debug/net7.0/Entities.pdb
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/refint/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.pdb
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/ref/Entities.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\webapi-csharp-master\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\ExamenTecg\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\LSM\Downloads\ExamenTecg\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\LSM\Downloads\ExamenTecg\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LSM\Downloads\ExamenTecg\Entities\obj\Debug\net7.0\ref\Entities.dll
